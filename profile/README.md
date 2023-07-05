@@ -28,17 +28,19 @@ Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect
 
 ## FAQ’s : 
 
-1. Who can participate in CTF contests?
+### 1. Who can participate in CTF contests?
 Anyone interested in Solidity, DeFi, and web3 security can participate.
 
-2. Can I as a developer contribute to DetectPlay?
+### 2. Can I as a developer contribute to DetectPlay?
 Users can also submit their own challenges, which will be reviewed by our team and then added to the Challenges. This encourages developers to create interesting and challenging tasks.
 
-3. How are points awarded in DetectPlay?
+### 3. How are points awarded in DetectPlay?
 Points will be awarded based on the difficulty level. Check out the point distribution below:
 - Easy 100
 - Medium 250
 - Hard 500 <br />
+<br />
+
 **Players who submit their solutions within “24 hours” of the CTF's launch will receive 2X points**
 
 Are you ready to embrace the thrill of Detect Play? Join us on this exciting journey and be prepared to showcase your talent in CTF smart contract auditing. Get ready to detect, play, and emerge as a true champion!
