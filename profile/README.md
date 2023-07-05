@@ -1,4 +1,4 @@
-# DetectPlay
+# DetectPlay - The Ultimate Smart Contract Auditing Competition
 
 Welcome to Detect Play, the ultimate CTF smart contract auditing competition! Are you ready to put your Web3 security skills to the test and dive into the fascinating world of Ethereum, Solidity, EVM, DeFi, and more?
 
@@ -23,6 +23,8 @@ Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect
 1. Soul-bound NFT certifications 
 2. Social Media Shoutouts 
 3. Open-source contribution for hundreds of auditors
+4. Improve the entire security score of your project
+5. Swags from UNSNARL
 
 ## FAQ’s : 
 
@@ -36,10 +38,10 @@ Users can also submit their own challenges, which will be reviewed by our team a
 Points will be awarded based on the difficulty level. Check out the point distribution below:
 - Easy 100
 - Medium 250
-- Hard 500
-**Players who submit their solutions within “24 hours” of the CTF's launch will receive 2X points
+- Hard 500 <br />
+**Players who submit their solutions within “24 hours” of the CTF's launch will receive 2X points**
 
 Are you ready to embrace the thrill of Detect Play? Join us on this exciting journey and be prepared to showcase your talent in CTF smart contract auditing. Get ready to detect, play, and emerge as a true champion!
 
-Join **[Detect Community](https://t.me/detectcommunity)** Telegram. <br />
-Fill out this **[form](https://forms.gle/5qWc2sKxSmYt1Ent8)** to register. 
+Join **[Detect Community](https://t.me/detectcommunity)**. <br />
+Audiotrs registration form : **[form](https://forms.gle/5qWc2sKxSmYt1Ent8)**
