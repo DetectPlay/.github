@@ -4,12 +4,16 @@ Welcome to Detect Play, the ultimate smart contract auditing playground! Are you
 
 Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect Dao, is the ultimate playground for auditors . It's a platform that immerses you in the Web3 ecosystem, offering valuable insights into Ethereum, Solidity programming, EVM, DeFi, and more. Delve into smart contract auditing and explore the captivating aspects of this rapidly evolving landscape.
 
+---
+
 ## Why DetectPlay ? 
 
 - Real-world exposure : Participants will have a good notion of what it would be like to work on such projects in the real world because the contest is based on real-world projects like the ones you will face while auditing.
 - Zero-To-Hero : Difficulty of issues will range from the very easy to hard ones, thus perfect for beginners to get into Web3 security as well as “the experienced” to hone their skills.
 - Something for Everyone : There lies an amazing earning opportunity for everyone: the prize pool will be distributed among all the participants based on your overall score.
 - Healthy Competition : Finally, there is also a leaderboard to track your  progress and compare results to encourage you all to push yourselves and strive to be the best!
+
+---
 
 ## What’s in it for you ( Auditors )  : 
 
@@ -24,6 +28,8 @@ Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect
 4. Improve the entire security score of your project
 5. Swags from UNSNARL
 
+---
+
 ## FAQ’s : 
 
 ### 1. Who can participate in CTF contests?
@@ -36,22 +42,27 @@ Users can also submit their own challenges, which will be reviewed by our team a
 Points will be awarded based on the difficulty level. Check out the point distribution below:
 - Easy 100
 - Medium 250
-- Hard 500 <br />
-<br />
+- Hard 500 
 
 **Players who submit their solutions within “24 hours” of the CTF's launch will receive 2X points**
 
-Are you ready to embrace the thrill of Detect Play? Join us on this exciting journey and be prepared to showcase your talent in CTF smart contract auditing. Get ready to detect, play, and emerge as a true champion!
+<br />
+**Are you ready to embrace the thrill of Detect Play? Join us on this exciting journey and be prepared to showcase your talent in CTF smart contract auditing. Get ready to detect, play, and emerge as a true champion!**
+
+---
+
+## CONTACT US :
 
 Join **[Detect Community](https://t.me/detectcommunity)**. <br />
-Audiotrs registration form : **[form](https://forms.gle/5qWc2sKxSmYt1Ent8)**
+Auditors registration form : **[form](https://forms.gle/5qWc2sKxSmYt1Ent8)** <br />
+Incase, you want to list your project : **[form](https://forms.gle/axss4Qta576m9MsR8) <br />
 
 ## ABOUT US - 
 
 UNSNARL is a rising Web3 security company committed to building Web3 Offensive Security Tech Solutions. UNSNARL is building DETECT-DAO is a closed-knit ecosystem of independent security researchers. Building the Auditor Economy - EARN, LEARN and PLAY.  
 
-🌐  [Website](https://www.detectbox.io/)
- ✍️  [Blog](https://medium.com/@unsnarl_secure)
-📑  [Audit Reports](https://github.com/UNSNARL)
-📩  [Telegram](https://t.me/detectcommunity)
-📨  [Twitter](https://twitter.com/unsnarl_secure)
+🌐  [Website](https://www.detectbox.io/)<br />
+ ✍️  [Blog](https://medium.com/@unsnarl_secure)<br />
+📑  [Audit Reports](https://github.com/UNSNARL)<br />
+📩  [Telegram](https://t.me/detectcommunity)<br />
+📨  [Twitter](https://twitter.com/unsnarl_secure)<br />
