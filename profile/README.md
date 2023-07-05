@@ -41,5 +41,5 @@ Points will be awarded based on the difficulty level. Check out the point distri
 
 Are you ready to embrace the thrill of Detect Play? Join us on this exciting journey and be prepared to showcase your talent in CTF smart contract auditing. Get ready to detect, play, and emerge as a true champion!
 
-Join **[Detect Community](https://t.me/detectcommunity)** Telegram
+Join **[Detect Community](https://t.me/detectcommunity)** Telegram. <br />
 Fill out this **[form](https://forms.gle/5qWc2sKxSmYt1Ent8)** to register. 
