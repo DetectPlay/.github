@@ -45,12 +45,13 @@ Points will be awarded based on the difficulty level. Check out the point distri
 **Players who submit their solutions within “24 hours” of the CTF's launch will receive 2X points**
 <br />
 
+---
 
 ### ARE YOU READY to embrace the thrill of Detect Play? 
 
 Join us on this exciting journey and be prepared to showcase your talent in CTF smart contract auditing. Get ready to **DETECT**, **PLAY**, and **EMERGE** as a true champion! 
 
----
+
 
 ## CONTACT US :
 
