@@ -41,6 +41,7 @@ Points will be awarded based on the difficulty level. Check out the point distri
 - Easy 100
 - Medium 250
 - Hard 500 
+
 **Players who submit their solutions within “24 hours” of the CTF's launch will receive 2X points**
 <br />
 
