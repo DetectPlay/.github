@@ -1,8 +1,6 @@
-# DetectPlay - The Ultimate Smart Contract Auditing Competition
+#  DETECTPLAY - C4arena For Practice
 
-Welcome to Detect Play, the ultimate CTF smart contract auditing competition! Are you ready to put your Web3 security skills to the test and dive into the fascinating world of Ethereum, Solidity, EVM, DeFi, and more?
-
-CTFs, or Capture the Flags, are renowned competitions that challenge cybersecurity professionals to showcase their proficiency and expertise. In this thrilling event, participants like you will have the opportunity to analyse and audit simulations of real-world smart contracts, along with a comprehensive security assessment of the project , in order to identify vulnerabilities and potential exploits.
+Welcome to Detect Play, the ultimate CTF smart contract auditing playground! Are you ready to put your Web3 security skills to the test and dive into the fascinating world of Ethereum, Solidity, EVM, DeFi, and more?
 
 Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect Dao, is the ultimate playground for auditors . It's a platform that immerses you in the Web3 ecosystem, offering valuable insights into Ethereum, Solidity programming, EVM, DeFi, and more. Delve into smart contract auditing and explore the captivating aspects of this rapidly evolving landscape.
 
@@ -47,3 +45,13 @@ Are you ready to embrace the thrill of Detect Play? Join us on this exciting jou
 
 Join **[Detect Community](https://t.me/detectcommunity)**. <br />
 Audiotrs registration form : **[form](https://forms.gle/5qWc2sKxSmYt1Ent8)**
+
+## ABOUT US - 
+
+UNSNARL is a rising Web3 security company committed to building Web3 Offensive Security Tech Solutions. UNSNARL is building DETECT-DAO is a closed-knit ecosystem of independent security researchers. Building the Auditor Economy - EARN, LEARN and PLAY.  
+
+🌐  [Website](https://www.detectbox.io/)
+ ✍️  [Blog](https://medium.com/@unsnarl_secure)
+📑  [Audit Reports](https://github.com/UNSNARL)
+📩  [Telegram](https://t.me/detectcommunity)
+📨  [Twitter](https://twitter.com/unsnarl_secure)
