@@ -22,4 +22,24 @@ Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect
 ## What’s in it for you ( PROJECTS ) : 
 1. Soul-bound NFT certifications 
 2. Social Media Shoutouts 
-3. Open-source contribution for hundreds of auditors 
+3. Open-source contribution for hundreds of auditors
+
+## FAQ’s : 
+
+1. Who can participate in CTF contests?
+Anyone interested in Solidity, DeFi, and web3 security can participate.
+
+2. Can I as a developer contribute to DetectPlay?
+Users can also submit their own challenges, which will be reviewed by our team and then added to the Challenges. This encourages developers to create interesting and challenging tasks.
+
+3. How are points awarded in DetectPlay?
+Points will be awarded based on the difficulty level. Check out the point distribution below:
+- Easy 100
+- Medium 250
+- Hard 500
+**Players who submit their solutions within “24 hours” of the CTF's launch will receive 2X points
+
+Are you ready to embrace the thrill of Detect Play? Join us on this exciting journey and be prepared to showcase your talent in CTF smart contract auditing. Get ready to detect, play, and emerge as a true champion!
+
+Join **[Detect Community](https://t.me/detectcommunity)** Telegram
+Fill out this **[form](https://forms.gle/5qWc2sKxSmYt1Ent8)** to register. 
