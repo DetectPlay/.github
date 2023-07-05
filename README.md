@@ -19,7 +19,7 @@ Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect
 - Exciting Swags to Winners
 - Top 3 on the leaderboard will be eligible as Detect-Warden on DetectBox
 
-What’s in it for you [ PROJECTS ] : 
+## What’s in it for you ( PROJECTS ) : 
 1. Soul-bound NFT certifications 
 2. Social Media Shoutouts 
 3. Open-source contribution for hundreds of auditors 
