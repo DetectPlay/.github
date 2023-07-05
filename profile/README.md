@@ -1,6 +1,6 @@
 #  DETECTPLAY - C4arena For Practice
 
-Welcome to Detect Play, the ultimate CTF smart contract auditing playground! Are you ready to put your Web3 security skills to the test and dive into the fascinating world of Ethereum, Solidity, EVM, DeFi, and more?
+Welcome to Detect Play, the ultimate smart contract auditing playground! Are you ready to put your Web3 security skills to the test and dive into the fascinating world of Ethereum, Solidity, EVM, DeFi, and more?
 
 Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect Dao, is the ultimate playground for auditors . It's a platform that immerses you in the Web3 ecosystem, offering valuable insights into Ethereum, Solidity programming, EVM, DeFi, and more. Delve into smart contract auditing and explore the captivating aspects of this rapidly evolving landscape.
 
