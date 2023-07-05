@@ -4,16 +4,15 @@ Welcome to Detect Play, the ultimate smart contract auditing playground! Are you
 
 Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect Dao, is the ultimate playground for auditors . It's a platform that immerses you in the Web3 ecosystem, offering valuable insights into Ethereum, Solidity programming, EVM, DeFi, and more. Delve into smart contract auditing and explore the captivating aspects of this rapidly evolving landscape.
 
----
+
 
 ## Why DetectPlay ? 
 
-- Real-world exposure : Participants will have a good notion of what it would be like to work on such projects in the real world because the contest is based on real-world projects like the ones you will face while auditing.
-- Zero-To-Hero : Difficulty of issues will range from the very easy to hard ones, thus perfect for beginners to get into Web3 security as well as “the experienced” to hone their skills.
-- Something for Everyone : There lies an amazing earning opportunity for everyone: the prize pool will be distributed among all the participants based on your overall score.
-- Healthy Competition : Finally, there is also a leaderboard to track your  progress and compare results to encourage you all to push yourselves and strive to be the best!
+- *Real-world exposure*  : Participants will have a good notion of what it would be like to work on such projects in the real world because the contest is based on real-world projects like the ones you will face while auditing.
+- *Zero-To-Hero* : Difficulty of issues will range from the very easy to hard ones, thus perfect for beginners to get into Web3 security as well as “the experienced” to hone their skills.
+- *Something for Everyone* : There lies an amazing earning opportunity for everyone: the prize pool will be distributed among all the participants based on your overall score.
+- *Healthy Competition* : Finally, there is also a leaderboard to track your  progress and compare results to encourage you all to push yourselves and strive to be the best!
 
----
 
 ## What’s in it for you ( Auditors )  : 
 
@@ -28,7 +27,6 @@ Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect
 4. Improve the entire security score of your project
 5. Swags from UNSNARL
 
----
 
 ## FAQ’s : 
 
@@ -43,19 +41,19 @@ Points will be awarded based on the difficulty level. Check out the point distri
 - Easy 100
 - Medium 250
 - Hard 500 
-
 **Players who submit their solutions within “24 hours” of the CTF's launch will receive 2X points**
 
 <br />
-**Are you ready to embrace the thrill of Detect Play? Join us on this exciting journey and be prepared to showcase your talent in CTF smart contract auditing. Get ready to detect, play, and emerge as a true champion!**
+
+#### **Are you ready to embrace the thrill of Detect Play? Join us on this exciting journey and be prepared to showcase your talent in CTF smart contract auditing. Get ready to detect, play, and emerge as a true champion!**
 
 ---
 
 ## CONTACT US :
 
 Join **[Detect Community](https://t.me/detectcommunity)**. <br />
-Auditors registration form : **[form](https://forms.gle/5qWc2sKxSmYt1Ent8)** <br />
-Incase, you want to list your project : **[form](https://forms.gle/axss4Qta576m9MsR8) <br />
+Auditors registration form : **[Form](https://forms.gle/5qWc2sKxSmYt1Ent8)** <br />
+Incase, you want to list your project : **[Form](https://forms.gle/axss4Qta576m9MsR8)** <br />
 
 ## ABOUT US - 
 
