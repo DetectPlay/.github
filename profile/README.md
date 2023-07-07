@@ -40,7 +40,10 @@ Users can also submit their own challenges, which will be reviewed by our team a
 Points will be awarded based on the difficulty level. Check out the point distribution below:
 - Easy 100
 - Medium 250
-- Hard 500 
+- Hard 500
+
+### 4. What is the Launch date of Detect Play?
+The launch date of Detect Play is 15th July 2023.
 
 **Players who submit their solutions within “24 hours” of the CTF's launch will receive 2X points**
 <br />
