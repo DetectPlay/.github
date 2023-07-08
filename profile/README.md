@@ -4,7 +4,8 @@ Welcome to Detect Play, the ultimate smart contract auditing playground! Are you
 
 Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect Dao, is the ultimate playground for auditors . It's a platform that immerses you in the Web3 ecosystem, offering valuable insights into Ethereum, Solidity programming, EVM, DeFi, and more. Delve into smart contract auditing and explore the captivating aspects of this rapidly evolving landscape.
 
-
+**Watch the video to know more** ⬇️ <br />
+[<img src="https://i.ytimg.com/vi/ZGds0PrjpEU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ZGds0PrjpEU "Now in Android: 55")
 
 ## Why DetectPlay ? 
 
