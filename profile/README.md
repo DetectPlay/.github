@@ -28,6 +28,11 @@ Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect
 4. Improve the entire security score of your project
 5. Swags from UNSNARL
 
+## How to particpate?
+The form of participation is more like a "Bug Bounty" than a traditional "Capture The Flag". Users must go to the "contracts" folder in the repository and try to find bugs in the logic and implementation of contracts.
+
+Once a bug has been found, the user should create a new issue in the repository and report the bug with a detailed explanation.
+Duplicate bugs will not be taken into account, only the first correctly described report will be valid.
 
 ## FAQ’s : 
 
