@@ -2,7 +2,7 @@
 
 Welcome to Detect Play, the ultimate smart contract auditing playground! Are you ready to put your Web3 security skills to the test and dive into the fascinating world of Ethereum, Solidity, EVM, DeFi, and more?
 
-Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect Dao, is the ultimate playground for auditors . It's a platform that immerses you in the Web3 ecosystem, offering valuable insights into Ethereum, Solidity programming, EVM, DeFi, and more. Delve into smart contract auditing and explore the captivating aspects of this rapidly evolving landscape.
+Detect Play is not your regular Practice Audit Contests. Detect Play, one of the verticals at Detect Dao, is the ultimate playground for auditors . It's a platform that immerses you in the Web3 ecosystem, offering valuable insights into Ethereum, Solidity programming, EVM, DeFi, and more. Delve into smart contract auditing and explore the captivating aspects of this rapidly evolving landscape.
 
 **Watch the video to know more** ⬇️ <br />
 [<img src="https://i.ytimg.com/vi/ZGds0PrjpEU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ZGds0PrjpEU "Now in Android: 55")
@@ -36,7 +36,7 @@ Duplicate bugs will not be taken into account, only the first correctly describe
 
 ## FAQ’s : 
 
-### 1. Who can participate in CTF contests?
+### 1. Who can participate in Practice Audit Contests?
 Anyone interested in Solidity, DeFi, and web3 security can participate.
 
 ### 2. Can I as a developer contribute to DetectPlay?
@@ -48,7 +48,7 @@ Points will be awarded based on the difficulty level. Check out the point distri
 - Medium 250
 - Hard 500
 
-- **Players who submit their solutions within “24 hours” of the CTF's launch will receive 2X points**
+- **Players who submit their solutions within “24 hours” of the Practice Audit Contest's launch will receive 2X points**
 
 ### 4. What is the Launch date of Detect Play?
 The launch date of Detect Play is **15th July 2023**.
@@ -59,7 +59,7 @@ The launch date of Detect Play is **15th July 2023**.
 
 ### ARE YOU READY to embrace the thrill of Detect Play? 
 
-Join us on this exciting journey and be prepared to showcase your talent in CTF smart contract auditing. Get ready to **DETECT**, **PLAY**, and **EMERGE** as a true champion! 
+Join us on this exciting journey and be prepared to showcase your talent in Practice Audit Contest of smart contract auditing. Get ready to **DETECT**, **PLAY**, and **EMERGE** as a true champion! 
 
 
 
