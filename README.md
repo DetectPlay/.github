@@ -15,7 +15,7 @@ Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect
 
 ## What’s in it for you ( Auditors )  : 
 
-- A prize pool of 1000$, to be distributed as per points on the leaderboard
+- A prize pool of upto 1000$, to be distributed as per points on the leaderboard
 - Exciting Swags to Winners
 - Top 3 on the leaderboard will be eligible as Detect-Warden on DetectBox
 
