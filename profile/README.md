@@ -2,9 +2,10 @@
 
 Welcome to Detect Play, the ultimate smart contract auditing playground! Are you ready to put your Web3 security skills to the test and dive into the fascinating world of Ethereum, Solidity, EVM, DeFi, and more?
 
-Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect Dao, is the ultimate playground for auditors . It's a platform that immerses you in the Web3 ecosystem, offering valuable insights into Ethereum, Solidity programming, EVM, DeFi, and more. Delve into smart contract auditing and explore the captivating aspects of this rapidly evolving landscape.
+Detect Play is not your regular Practice Audit Contests. Detect Play, one of the verticals at Detect Dao, is the ultimate playground for auditors . It's a platform that immerses you in the Web3 ecosystem, offering valuable insights into Ethereum, Solidity programming, EVM, DeFi, and more. Delve into smart contract auditing and explore the captivating aspects of this rapidly evolving landscape.
 
-
+**Watch the video to know more** ⬇️ <br />
+[<img src="https://i.ytimg.com/vi/ZGds0PrjpEU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ZGds0PrjpEU "Now in Android: 55")
 
 ## Why DetectPlay ? 
 
@@ -27,10 +28,15 @@ Detect Play is not your regular CTF. Detect Play, one of the verticals at Detect
 4. Improve the entire security score of your project
 5. Swags from UNSNARL
 
+## How to particpate?
+The form of participation is more like a "Bug Bounty" than a traditional "Capture The Flag". Users must go to the "contracts" folder in the repository and try to find bugs in the logic and implementation of contracts.
+
+Once a bug has been found, the user should create a new issue in the repository and report the bug with a detailed explanation.
+Duplicate bugs will not be taken into account, only the first correctly described report will be valid.
 
 ## FAQ’s : 
 
-### 1. Who can participate in CTF contests?
+### 1. Who can participate in Practice Audit Contests?
 Anyone interested in Solidity, DeFi, and web3 security can participate.
 
 ### 2. Can I as a developer contribute to DetectPlay?
@@ -40,16 +46,20 @@ Users can also submit their own challenges, which will be reviewed by our team a
 Points will be awarded based on the difficulty level. Check out the point distribution below:
 - Easy 100
 - Medium 250
-- Hard 500 
+- Hard 500
 
-**Players who submit their solutions within “24 hours” of the CTF's launch will receive 2X points**
+- **Players who submit their solutions within “24 hours” of the Practice Audit Contest's launch will receive 2X points**
+
+### 4. What is the Launch date of Detect Play?
+The launch date of Detect Play is **15th July 2023**.
+
 <br />
 
 ---
 
 ### ARE YOU READY to embrace the thrill of Detect Play? 
 
-Join us on this exciting journey and be prepared to showcase your talent in CTF smart contract auditing. Get ready to **DETECT**, **PLAY**, and **EMERGE** as a true champion! 
+Join us on this exciting journey and be prepared to showcase your talent in Practice Audit Contest of smart contract auditing. Get ready to **DETECT**, **PLAY**, and **EMERGE** as a true champion! 
 
 
 
